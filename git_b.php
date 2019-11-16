@@ -1,5 +1,5 @@
 <?php
-$info = 'これはgit_b.phpです';
+$info = '１回目の変更';
 ?>
 <!DOCTYPE html>
 <html>
