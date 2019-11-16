@@ -1,3 +1,7 @@
+<php
+echo 'Git';
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
