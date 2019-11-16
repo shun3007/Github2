@@ -1,6 +1,6 @@
 <?php
-$info = 'これはgit_c.phpです';
-echo 'これはgit_c.phpです';
+$info = 'second commit!!';
+echo 'second commit!!';
 ?>
 <!DOCTYPE html>
 <html>
