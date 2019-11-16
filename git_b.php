@@ -1,5 +1,5 @@
 <?php
-$info = '１回目の変更';
+$info = '2回目の変更';
 ?>
 <!DOCTYPE html>
 <html>
