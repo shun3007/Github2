@@ -1,6 +1,6 @@
 <?php
-$info = 'second commit!!';
-echo 'second commit!!';
+$info = 'third commit!!';
+echo 'third commit!!';
 ?>
 <!DOCTYPE html>
 <html>
