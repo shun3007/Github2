@@ -1,3 +1,6 @@
+<?php
+echo 'これはgit_a.phpです';
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +8,6 @@
 <meta charset="utf-8">
 </head>
 <body>
-<br>
 </body>
 </html>
 
